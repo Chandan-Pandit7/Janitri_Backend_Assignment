@@ -9,8 +9,8 @@
 # API EndPoints
 
 User APIs
-   Register User: POST /api/user/signup
-   Login User: POST /api/user/login
+   Register User: POST /api/signup
+   Login User: POST /api/login
 
 Patient APIs
    Add Patient: POST /patient/add-patient
